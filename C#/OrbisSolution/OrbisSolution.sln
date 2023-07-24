@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbisProject", "OrbisProject\OrbisProject.csproj", "{CDEEA8F8-D175-49D8-B2CE-CBFAED709911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbisTest", "OrbisTest\OrbisTest.csproj", "{0340051A-AA8D-435C-89DE-CECD57EC9970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEEA8F8-D175-49D8-B2CE-CBFAED709911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEEA8F8-D175-49D8-B2CE-CBFAED709911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEEA8F8-D175-49D8-B2CE-CBFAED709911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEEA8F8-D175-49D8-B2CE-CBFAED709911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0340051A-AA8D-435C-89DE-CECD57EC9970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0340051A-AA8D-435C-89DE-CECD57EC9970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0340051A-AA8D-435C-89DE-CECD57EC9970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0340051A-AA8D-435C-89DE-CECD57EC9970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3C5272-18DB-4778-ABA2-763BDFCA1F34}
+	EndGlobalSection
+EndGlobal
